@@ -1,0 +1,75 @@
+{
+    "type": "FlightsCollection",
+    "flights": [
+        {
+            "type": "flight",
+            "order": 1,
+            "from": "LHR",
+            "to": "MAN",
+            "flightCode": "BA 1432",
+            "date": "2021-06-15",
+            "status": true,
+            "startLat": 51.4700, 
+            "startLng": -0.4543, 
+            "endLat": 53.3651,   
+            "endLng": -2.2728,   
+            "arcAlt": 0.1
+        },
+        {
+            "type": "flight",
+            "order": 2,
+            "from": "MAN",
+            "to": "EDI",
+            "flightCode": "BA 1471",
+            "date": "2021-06-18",
+            "status": true,
+            "startLat": 53.3651,
+            "startLng": -2.2728,
+            "endLat": 55.9500, 
+            "endLng": -3.3725,
+            "arcAlt": 0.1
+        },
+        {
+            "type": "flight",
+            "order": 3,
+            "from": "EDI",
+            "to": "LHR",
+            "flightCode": "BA 1454",
+            "date": "2021-06-20",
+            "status": true,
+            "startLat": 55.9500,
+            "startLng": -3.3725,
+            "endLat": 51.4700,
+            "endLng": -0.4543,
+            "arcAlt": 0.1
+        },
+        {
+            "type": "flight",
+            "order": 4,
+            "from": "LHR",
+            "to": "GLA",
+            "flightCode": "BA 1482",
+            "date": "2021-06-25",
+            "status": true,
+            "startLat": 51.4700,
+            "startLng": -0.4543,
+            "endLat": 55.8642,
+            "endLng": -4.4336, 
+            "arcAlt": 0.1
+        },
+        {
+            "type": "flight",
+            "order": 5,
+            "from": "GLA",
+            "to": "LHR",
+            "flightCode": "BA 1487",
+            "date": "2021-06-28",
+            "status": true,
+            "startLat": 55.8642,
+            "startLng": -4.4336,
+            "endLat": 51.4700,
+            "endLng": -0.4543,
+            "arcAlt": 0.1
+        }
+    ]
+}
